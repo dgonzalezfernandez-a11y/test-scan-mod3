@@ -150,7 +150,7 @@ console.log('API call successful:', response);
     <>
       <div className="min-h-screen bg-background text-foreground relative overflow-hidden">
         <ThemeToggle />
-        <div className="absolute inset-0 bg-gradient-to-br from-orange-100/20 via-transparent to-slate-100/20 dark:from-orange-900/10 dark:to-slate-900/10 pointer-events-none" aria-hidden="true" />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-100/30 via-transparent to-slate-100/20 dark:from-orange-900/10 dark:to-slate-900/10 pointer-events-none" aria-hidden="true" />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="py-8 md:py-10 lg:py-12">
             <header className="text-center space-y-4 mb-12">
@@ -173,7 +173,7 @@ console.log('API call successful:', response);
   <img 
     src="/mm_logo.svg" 
     alt="ScanForm Logo" 
-    className="h-16 w-auto object-contain" 
+    className="h-32 w-auto object-contain" 
   />
   
   {/* Ajustamos la versión para que quede alineada abajo a la derecha del logo */}
