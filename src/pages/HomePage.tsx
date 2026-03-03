@@ -171,7 +171,7 @@ console.log('API call successful:', response);
 <div className="flex items-center justify-center gap-3">
   {/* Ajusta 'h-16' si quieres el logo más grande o más pequeño */}
   <img 
-    src="/logo.png" 
+    src="/mm_logo.svg" 
     alt="ScanForm Logo" 
     className="h-16 w-auto object-contain" 
   />
